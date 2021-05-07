@@ -1,2 +1,3 @@
+include ':hellotoast'
 include ':app'
 rootProject.name = "CodeLab"

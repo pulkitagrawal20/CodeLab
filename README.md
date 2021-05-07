@@ -4,7 +4,6 @@ I have made an simple UI:
 For Refference:-[Android fundamentals 01.2 Part B:The Layout Editor](https://developer.android.com/codelabs/android-training-layout-editor-part-b?index=..%2F..%2Fandroid-training#0)
 
 # Download APK from here:-
-
 [APK](https://github.com/pulkitagrawal20/CodeLab/releases/download/v2.0/app-debug.apk)
 
 # Previews of the Application:-

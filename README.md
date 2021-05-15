@@ -13,4 +13,4 @@ I have made simple UI and Applications as shown in the CodeLab
 
 [Constraint Layout (Part-A)](https://github.com/pulkitagrawal20/CodeLab/tree/Constraint-Layout-(Part-A)) APK [Download](https://github.com/pulkitagrawal20/CodeLab/releases/download/v5.0/app-debug.apk)
 
-[Constraint Layout (Part-B)](https://github.com/pulkitagrawal20/CodeLab/tree/Constraint-Layout-(Part-B)) APK [Download]()
+[Constraint Layout (Part-B)](https://github.com/pulkitagrawal20/CodeLab/tree/Constraint-Layout-(Part-B)) APK [Download](https://github.com/pulkitagrawal20/CodeLab/releases/download/v6.0/app-debug.apk)
